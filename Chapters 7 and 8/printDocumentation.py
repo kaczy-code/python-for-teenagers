@@ -10,8 +10,8 @@ print (time.__doc__)
 # Documentation begins.
 
 
- print("Here is what using HELP looks like...")
- print("######################################")
+print("Here is what using HELP looks like...")
+print("######################################")
 
 # Printing documentation using help()
 
