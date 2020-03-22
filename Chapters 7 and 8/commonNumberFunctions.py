@@ -11,13 +11,13 @@ totalPayroll = [500, 600, 200, 400, 1000]
 # Use max() to find the highest number in the studentGrades list
 
 print("What is the highest grade in the studentGrades list?")
-print:("Answer :")
+print("Answer :")
 print(max(studentGrades))
 
 # Use min() to find the lowest number in the studentGrades list
 
 print("What is the lowest grade in the studentGrades list?")
-print:("Answer :")
+print("Answer :")
 print(min(studentGrades))
 
 # Use min() and max() without defining a list
